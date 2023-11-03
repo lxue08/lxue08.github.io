@@ -9,7 +9,7 @@ redirect_from:
 ---
 Liang Xue is currently a Postdoctoral Research Fellow at the [School of Computer Science](https://www.uoguelph.ca/computing), [University of Guelph](https://www.uoguelph.ca/), Ontario, Canada. She received her Ph.D. degree from the Department of Electrical and Computer Engineering, [University of Waterloo](https://uwaterloo.ca/), Canada, in September 2022. She joined the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), University of Waterloo, in 2018. She received her B.S. degree and M.S. degree (awarded Outstanding Graduate) from the School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), China, in 2015 and 2018.
 
-##Research interests
+##Research Interests
 
 Dr. Xue’s research interests are security and privacy preservation in different areas, with a focus on
 <!--including cloud computing, blockchain applications, machine learning, Internet of Things, and cyber-physical systems. -->
