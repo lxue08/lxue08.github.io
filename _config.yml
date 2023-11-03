@@ -85,7 +85,7 @@ author:
   bio              : "Postdoctoral Research Fellow at the University of Guelph"
   location         : "Guelph, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=VSA9i5YAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
