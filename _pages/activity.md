@@ -1,10 +1,10 @@
 Professional Activities
 =====
 
-###Editorship:
+### Editorship:
 Associate Editor, IEEE Internet of Things Journal, 2023
 
-###Conference/Workshop Technical Program Committee Member:
+### Conference/Workshop Technical Program Committee Member:
 - ICC 2024: CISS Symposium: Communication and Information System Security Symposium
 - FMobile 2023: International Workshop on Future Mobile Computing and Networking for Internet of Things (FMobile)
 - ISPA 2023: IEEE International Symposium on Parallel & Distributed Processing with Applications
