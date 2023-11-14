@@ -5,8 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-Professional Activities
-=====
+
 
 ### Editorship:
 Associate Editor, IEEE Internet of Things Journal, 2023
