@@ -10,8 +10,8 @@ main:
 #  - title: "Talks"
   #  url: /talks/    
 
- #- title: "Professional Activities"
- #   url: /activities/ 
+ - title: "Professional Activities"
+    url: /activities/ 
 
 
 
