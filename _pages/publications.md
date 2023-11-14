@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+--- 
+ 
  Referreed Journal papers
 =====
 1. **L. Xue**, J. Ni, D. Liu, X. Lin, and X. Shen, “Blockchain-based fair and fine-grained data trading with privacy preservation,”  
