@@ -20,8 +20,8 @@ main:
   - title: "Professional Activities"
     url: /activities/ 
     
- #- title: "Awards"
- #   url: /awards/  
+ - title: "Awards"
+   url: /awards/  
 
  
  #- title: "Portfolio"
