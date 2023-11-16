@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 --- 
  
- Referreed Journal papers
- -------
+Referreed Journal Papers
+-----
 
 1. **L. Xue**, J. Ni, D. Liu, X. Lin, and X. Shen, “Blockchain-based fair and fine-grained data trading with privacy preservation,”  
 ***IEEE Transactions on Computers***, vol. 72, no. 9, pp. 2440 - 2453, 2023.  
@@ -51,8 +51,8 @@ author_profile: true
 20.  Y. Yu, **L. Xue**, M. H. Au, W. Susilo, J. Ni, Y. Zhang, A. V. Vasilakos, and J. Shen, “Cloud data integrity checking with an identity-based auditing mechanism from RSA,”  
 ***Future Generation Computer Systems***, vol. 62, pp. 85 - 91, 2016   
 
-Referreed Conference papers
--------
+Referreed Conference Papers
+-----
 
 1. **L. Xue**, X. Lin, P. Xiong, “Practical and Privacy-Preserving Decision Tree Evaluation with One Round Communication,”  
 ***AIS&P 2023 — International Conference on Artificial Intelligence Security and Privacy*** Guangzhou, China, 2023.  
