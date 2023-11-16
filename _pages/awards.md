@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Awards"
+title: "Honors and Awards"
 permalink: /awards/
 author_profile: true
 --- 
 
 
-Honors and Awards
-=====
+
 
 * Chinese Government Award for Outstanding Self-financed Students Abroad, China Scholarship Council,
 2021
